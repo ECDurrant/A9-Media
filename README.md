@@ -12,7 +12,8 @@ A simple Windows app for saving videos your session can access.
 
 Paste multiple links to make a queue. **Open video** plays a saved result.
 **Stop** pauses work; **Resume / retry** continues unfinished jobs.
-If A9 opens a browser, play the video or sign in when needed. That separate
+No browser selection or login setup is needed. A9 chooses an installed browser
+automatically. If a site asks, play the video or sign in in the window A9 opens. That separate
 A9 browser profile remembers your sign-ins.
 
 ## Keep the downloaded app up to date
@@ -22,9 +23,9 @@ downloads a verified update and reopens at the same location. The app checks
 for new releases automatically each day and asks before installing.
 
 Updates preserve your preferences, queue, sign-ins and downloaded videos.
-**Update video engine** separately refreshes site support.
+**Settings > More options > Update site support** separately refreshes site support.
 
-For an update received as a file, use **Settings > Install update file** and
+For an update received as a file, use **Settings > More options > Install update file** and
 select the `.a9update` file from a release.
 
 ### Upgrading an older copy
