@@ -29,7 +29,7 @@ select the `.a9update` file from a release.
 
 ### Upgrading an older copy
 
-Close A9. Download **A9 Updater.exe** and the `.a9update` file from the
+Close A9. Download **A9-Updater.exe** and the `.a9update` file from the
 [latest release](https://github.com/ECDurrant/A9-Video-Taker/releases/latest).
 Open the updater, select your existing A9 folder, and select the update file.
 Future updates can be installed inside A9.
