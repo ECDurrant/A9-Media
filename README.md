@@ -1,48 +1,27 @@
-# A9 Video Taker
+# A9 Media
 
-A simple Windows app for saving videos your session can access.
+Your music and video, saved libraries, sharing and A9 Radio.
 
-**[Download A9 for Windows](https://github.com/ECDurrant/A9-Video-Taker/releases/latest/download/A9-Video-Taker.zip)** · **[Release notes](https://github.com/ECDurrant/A9-Video-Taker/releases/latest)**
+**[Download for Windows](https://github.com/ECDurrant/A9-Media/releases/latest/download/A9-Media-Setup.exe)**
 
-## Start
+1. Download and open **A9-Media-Setup.exe**.
+2. Open **A9 Media**.
+3. Choose **Add folder** in Library. It stays saved.
 
-1. Extract the ZIP into a folder. Keep all its files together.
-2. Open **A9 Video Taker.exe**.
-3. Paste a video link, choose Auto or a quality, and click **Download**.
+No administrator account required. Windows 10 or 11, 64-bit.
 
-Paste multiple links to make a queue. **Open video** plays a saved result.
-**Stop** pauses work; **Resume / retry** continues unfinished jobs.
-No browser selection or login setup is needed. A9 chooses an installed browser
-automatically. If a site asks, play the video or sign in in the window A9 opens. That separate
-A9 browser profile remembers your sign-ins.
+[Use A9 Media in your browser](https://media.a9intel.com) · [Portable ZIP](https://github.com/ECDurrant/A9-Media/releases/latest/download/A9-Media.zip) · [Release notes](https://github.com/ECDurrant/A9-Media/releases/latest)
 
-## Keep the downloaded app up to date
+For the portable ZIP, extract it and open **A9 Media.exe**.
 
-Open **Settings > Check A9 updates**. A9 checks this repository's latest release,
-downloads a verified update and reopens at the same location. The app checks
-for new releases automatically each day and asks before installing.
+## Your library stays yours
 
-Updates preserve your preferences, queue, sign-ins and downloaded videos.
-**Settings > More options > Update site support** separately refreshes site support.
+Desktop folders, playlists, favorites and settings are saved on your computer. Browser file imports are saved in that browser on that device; clearing site data removes them, so keep your originals. A browser may ask you to reconnect a linked folder.
 
-For an update received as a file, use **Settings > More options > Install update file** and
-select the `.a9update` file from a release.
+Local playback needs no account. Connect your computer once in Settings for friends and sharing. Folder shares work while the computer and app are online; uploaded shares remain available online.
 
-### Upgrading an older copy
+## Existing installations
 
-Close A9. Download **A9-Updater.exe** and the `.a9update` file from the
-[latest release](https://github.com/ECDurrant/A9-Video-Taker/releases/latest).
-Open the updater, select your existing A9 folder, and select the update file.
-Future updates can be installed inside A9.
+Open **Settings > Check A9 updates**. Existing libraries, settings, queue and sign-ins carry forward. Older download and update links remain compatible.
 
-## Privacy and compatibility
-
-Preferences, browser sessions, queue and videos stay on your computer. They
-are not included in release downloads. No telemetry is included.
-
-Some sites require an ordinary login or CAPTCHA interaction. DRM-protected
-streams and content your session cannot access cannot be saved by A9.
-The app uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) and
-[FFmpeg](https://ffmpeg.org/).
-
-This repository distributes the Windows app and release notes.
+The app is currently unsigned. Only download it from this official repository.
